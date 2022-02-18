@@ -1,2 +1,2 @@
-# First-repo
-This is my first project md
+# First-Demo
+This is my first project
